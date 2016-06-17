@@ -1,0 +1,17 @@
+{
+  "name": "jquery-starburst-hover",
+  "homepage": "https://github.com/liamegan/jq-starburst-hover",
+  "authors": [
+    "Liam Egan <liam@wethecollective.com>"
+  ],
+  "description": "Create a starburst of elements when the user hovers over an element(s)",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
