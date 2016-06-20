@@ -11,6 +11,8 @@
     Edited          2015-09-13 09:57:45
     Version         0.7
 */
+; 'use strict';
+
 var _base;
 window.wtc || (window.wtc = {});
 (_base = window.wtc).jq || (_base.jq = {});
